@@ -9,8 +9,6 @@ This is a solution to the [Interactive card details form challenge on Frontend M
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -23,8 +21,8 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/tdtatum2/Interactive-Credit-Card)
-- Live Site URL: [GitHub Pages](https://tdtatum2.github.io/Interactive-Credit-Card)
+- Solution URL: [GitHub Repo](https://github.com/tdtatum2/Tip-Calculator)
+- Live Site URL: [GitHub Pages](https://tdtatum2.github.io/Tip-Calculator)
 
 ## My process
 
@@ -36,18 +34,6 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [ReactBootstrap](https://react-bootstrap.github.io/) - Styling library built for React
-- [Cleave.js](https://nosir.github.io/cleave.js/) - An input formatting library
-- [Animate.css](https://animate.style/) - A CSS animation library
-
-### What I learned
-
-This was a fun project that taught me even more about responsive designs, input formatting, useState, and useEffect!
-
-### Continued development
-
-- I want to sharpen my responsive design skills
-- I want to incorporate more advanced CSS and JS ideas
-- I want to learn other applications of real-time updating UIs
 
 ### Useful resources
 
